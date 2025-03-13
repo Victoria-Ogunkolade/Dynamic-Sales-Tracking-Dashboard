@@ -1,6 +1,5 @@
 **Adidas Sales Analysis (2021 - 2022)**
-
-![Adidas Sales Dashboard](ADIDAS%20SALES%20DASHBOARD.png)
+![Adidas Sales Dashboard](https://github.com/Victoria-Ogunkolade/Excel-Dashboards/blob/main/ADIDAS%20SALES%20DAHSHBOARD.png?raw=true)
 
 **Overview**
 
