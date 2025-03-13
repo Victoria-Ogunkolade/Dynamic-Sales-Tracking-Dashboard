@@ -1,5 +1,7 @@
 **Adidas Sales Analysis (2021 - 2022)**
 
+![Adidas Sales Dashboard](ADIDAS%20SALES%20DASHBOARD.png)
+
 **Overview**
 
 This repository contains a structured dataset on Adidas sales performance, along with an interactive Excel dashboard. The dashboard is equipped with slicers that allow users to filter data by product category, sales channel, and year, enabling a dynamic exploration of sales trends, regional performance, and profitability.
@@ -35,9 +37,6 @@ Year (2020, 2021)
 
  **Important Note:**
 The figures displayed on the dashboard depend on the selected filters. The dataset contains overall sales data, but the dashboard view changes based on the slicer selections and also, internet connection is needed when interacting with dashboard so as to see the product pictures.
-
-**Dashboard Preview:**
-([https://raw.githubusercontent.com/your-username/repo-name/main/dashboard.png](https://github.com/Victoria-Ogunkolade/Excel-Dashboards/blob/main/ADIDAS%20SALES%20DAHSHBOARD.png?raw=true)
 
 **Usage:**
 This dataset and dashboard can be used for:
