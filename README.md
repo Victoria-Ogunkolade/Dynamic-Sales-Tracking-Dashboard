@@ -34,7 +34,7 @@ Year (2020, 2021)
  **Retailer Insights –** Identify top-performing retailers based on profit.
 
  **Important Note:**
-The figures displayed on the dashboard depend on the selected filters. The dataset contains overall sales data, but the dashboard view changes based on the slicer selections.
+The figures displayed on the dashboard depend on the selected filters. The dataset contains overall sales data, but the dashboard view changes based on the slicer selections and also, internet connection is needed when interacting with dashboard so as to see the product pictures.
 
 **Usage:**
 This dataset and dashboard can be used for:
