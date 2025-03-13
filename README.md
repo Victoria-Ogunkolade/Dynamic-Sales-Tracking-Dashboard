@@ -36,6 +36,9 @@ Year (2020, 2021)
  **Important Note:**
 The figures displayed on the dashboard depend on the selected filters. The dataset contains overall sales data, but the dashboard view changes based on the slicer selections and also, internet connection is needed when interacting with dashboard so as to see the product pictures.
 
+**Dashboard Preview**
+
+
 **Usage:**
 This dataset and dashboard can be used for:
 
