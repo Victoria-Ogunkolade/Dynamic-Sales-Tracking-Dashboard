@@ -36,8 +36,8 @@ Year (2020, 2021)
  **Important Note:**
 The figures displayed on the dashboard depend on the selected filters. The dataset contains overall sales data, but the dashboard view changes based on the slicer selections and also, internet connection is needed when interacting with dashboard so as to see the product pictures.
 
-**Dashboard Preview**
-![Adidas Sales Dashboard]([https://raw.githubusercontent.com/your-username/repo-name/main/dashboard.png](https://github.com/Victoria-Ogunkolade/Excel-Dashboards/blob/main/ADIDAS%20SALES%20DAHSHBOARD.png?raw=true)
+**Dashboard Preview:**
+([https://raw.githubusercontent.com/your-username/repo-name/main/dashboard.png](https://github.com/Victoria-Ogunkolade/Excel-Dashboards/blob/main/ADIDAS%20SALES%20DAHSHBOARD.png?raw=true)
 
 **Usage:**
 This dataset and dashboard can be used for:
