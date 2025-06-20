@@ -56,5 +56,5 @@ Download the dataset from this repository.
 Open the Excel file and use the slicers to explore different insights.
 
 **Contributions:**
-Feedback and improvements are welcome! Feel free to fork this repository, suggest enhancements, or use the dataset for your own projects.
+Feedback and improvements are welcome! 
 
